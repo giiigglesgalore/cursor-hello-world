@@ -1,0 +1,24 @@
+# system sepcs
+CPU: 2 Cores
+RAM: 1GB
+Storage: 10GB
+Swap: 0B
+Region: us-sanjose-1
+Public IP: 167.234.218.69
+OS: Canonical Ubuntu 24.04
+Provider: Oracle Cloud
+
+# web server
+- nginx
+- auto accept new packages
+
+
+# website project
+- root directory /var/www/my-website/
+
+# git config
+- user.name: "Xiang Lai"
+- user.email: "giiigglesgalore@gmail.com"
+- github username: "giiigglesgalore"
+- github repo name: "cursor-hello-world"
+
